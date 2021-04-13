@@ -91,7 +91,7 @@ p{
 /* --------------- navbar ----------------- */
 
 .nav{
-    background: white;
+    background: cornsilk;
     padding: 0 2rem;
     height: 0rem;
     min-height: 10vh;
@@ -174,15 +174,15 @@ p{
 
 /* --------------- Site title ---------------- */
 main .site-title{
-    background: url('../assets/Blog-post/back.jpg');
+    background: url('../assets/perfect\ \(2\).svg');
     background-size: cover;
-    height: 110vh;
+    height: 60vh;
     display: flex;
     justify-content: center;
 }
 
 main .site-title .site-background{
-    padding-top: 10rem;
+    height: 15px;
     text-align: center;
     color: var(--white);
 }
