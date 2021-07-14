@@ -420,9 +420,25 @@ main .post-content .post-title a{
 
 /* -------x------- Sidebar -----------x----------- */
 
-/* ---------x------- Main Content -----x----- */
-
-
+/* ---------x------- Form Content -----x----- */
+.contain-form {
+    text-align:center;
+    padding: 20px;
+    background-image: linear-gradient(to right bottom, #68696b, #7c8488, #91a1a1, #acbeb4, #d2d9c5);
+  }
+  
+  .col{
+    padding:10px;
+    margin: 2px 4px;
+    border-radius: 6px; 
+  }
+  
+  .form-control{
+    padding:10px;
+    margin: 2px 4px;
+    border-radius: 6px;
+    width: 50%;
+  }
 /* ----------------- Footer --------------------- */
 
 footer.footer{
